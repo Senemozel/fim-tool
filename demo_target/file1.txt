@@ -1,0 +1,2 @@
+This is a dummy file created for testing the FIM (File Integrity Monitoring) tool.
+You can safely modify, add new lines, or delete this file to see how the tool detects changes!

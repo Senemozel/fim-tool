@@ -4,3 +4,4 @@ __pycache__/
 baseline/*.json
 reports/*.html
 .env
+*.swp
